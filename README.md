@@ -1,5 +1,7 @@
 # SecotrustSabreDavBundle #
 
+This is a fork in order to implement the latest SabreDAV (CardDav, vobject, etc.) library
+
 ## About ##
 
 This bundle integrates the [SabreDAV](https://github.com/fruux/sabre-dav) library into Symfony2.
